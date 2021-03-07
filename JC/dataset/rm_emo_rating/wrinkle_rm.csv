@@ -1,0 +1,30 @@
+,rm_id,rm_type,symptom,provider,url,effc_degree,maintain,improve,prevent,description
+0,6,healthiness,wrinkle,Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/wrinkles/symptoms-causes/syc-20354927,None,None,1,None,Protect your skin from the sun.
+1,7,healthiness,wrinkle,Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/wrinkles/symptoms-causes/syc-20354927,None,None,1,None,Use products with built-in sunscreen.
+2,8,healthiness,wrinkle,Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/wrinkles/symptoms-causes/syc-20354927,None,None,1,None,Use moisturizers.
+3,9,healthiness,wrinkle,Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/wrinkles/symptoms-causes/syc-20354927,None,None,1,None,Don't smoke.
+4,10,healthiness,wrinkle,Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/wrinkles/symptoms-causes/syc-20354927,None,None,1,None,Eat a healthy diet.
+5,11,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#1,None,None,1,None,Avoid the sun.
+6,12,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#1,None,None,1,None,Wear sunscreen.
+7,13,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#1,None,None,1,None,Get adequate sleep.
+8,14,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#1,None,None,1,None,Don't smoke.
+9,15,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#2,None,None,1,None,Sleep on your back.
+10,16,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#2,None,None,1,None, Don't squint -- get reading glasses!
+11,17,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#2,None,None,1,None,Eat more fish -- particularly salmon.
+12,18,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#2,None,None,1,None,Eat more soy
+13,19,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#2,None,None,1,None,Trade coffee for cocoa.
+14,20,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#2,None,None,1,None,Eat more fruits and vegetables.
+15,21,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#3,None,None,1,None,Use moisturizer.
+16,22,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#3,None,None,1,None,Don't over-wash your face.
+17,23,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#3,None,None,1,None,Alpha-hydroxy acids (AHAs).
+18,24,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#3,None,None,1,None,Retinoids (including Retin A).
+19,25,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#3,None,None,1,None,Topical vitamin C.
+20,26,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#3,None,None,1,None,Idebenone.
+21,27,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#4,None,None,1,None,Growth factors.
+22,28,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#4,None,None,1,None,Pentapeptides.
+23,29,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#4,None,None,1,None,Botox.
+24,30,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#4,None,None,1,None,Wrinkle fillers.
+25,31,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#4,None,None,1,None,Laser/light resurfacing.
+26,32,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#4,None,None,1,None,Chemical peels.
+27,33,healthiness,wrinkle,WebMD,https://www.webmd.com/beauty/features/23-ways-to-reduce-wrinkles#4,None,None,1,None,Dermabrasion.
+28,71,healthiness,wrinkle,Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/wrinkles/symptoms-causes/syc-20354927,None,0,1,0,Protect your skin from the sun.
