@@ -1,0 +1,21 @@
+Common
+  - Scikit-learn: 0.20.1
+  - Numpy: > 1.11.0
+
+user_interface.py
+ screeninfo
+   - pip install screeninfo
+ tkinter
+   - https://www.activestate.com/activetcl
+
+
+recom_model_generator.py
+  rake-nltk
+    - pip install rake-nltk
+  scikit-surprise
+    - pip install scikit-surprise
+
+
+aging_summary.py
+    OWM
+      - pip install pyowm
